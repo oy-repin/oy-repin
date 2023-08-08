@@ -68,9 +68,7 @@ Throughout the last 12 years, I frequently engaged in analysis to meet business 
 <a href="https://www.anaconda.com/">
 <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&style=square&logoColor=white&color=44A833" title="Anaconda" alt="Anaconda" height="30"/>
 </a>
-<a href="https://www.atlassian.com/">
-<img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&style=square" title="Jira" alt="Jira" height="30"/>
-</a>
+
   
 </div>
   
