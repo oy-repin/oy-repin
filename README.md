@@ -30,7 +30,7 @@ Throughout the last 12 years, I frequently engaged in analysis to meet business 
 ### Skills :
 <div>
 <a href="https://github.com/oy-repin/">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=square&logoColor=white" title="Python" alt="Python" height="30"/>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=square&logoColor=white" title="Python" alt="Python" height="20"/>
 </a>
 <a href="https://pandas.pydata.org/">
 <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&style=square" title="Pandas" alt="Pandas" height="30"/>
