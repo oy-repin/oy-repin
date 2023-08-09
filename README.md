@@ -35,6 +35,9 @@ Throughout the last 12 years, I frequently engaged in analysis to meet business 
 <a href="https://pandas.pydata.org/">
 <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&style=square" title="Pandas" alt="Pandas" height="20"/>
 </a>
+<a href="https://jupyter.org/">
+<img src="https://img.shields.io/badge/Jupyter%20-F37626?logo=jupyter&style=square&logoColor=white" title="Jupyter Notebook" alt="Jupyter Notebook" height="20"/>
+</a>
 <a href="https://numpy.org/">
 <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&style=square" title="Numpy" alt="Numpy" height="20"/>
 </a>
@@ -42,7 +45,7 @@ Throughout the last 12 years, I frequently engaged in analysis to meet business 
 <img src="https://img.shields.io/badge/SciPy-654FF0?logo=scipy&style=square" title="SciPy" alt="SciPy" height="20"/>
 </a>
 <a href="https://plotly.com/python/">
-<img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&style=square" title="Plotly" alt="Plotly" height="20"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&style=square" title="Seaborn" alt="Seaborn" height="20"/>
 </a>
 <a href="https://www.postgresql.org/">
 <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&style=square&logoColor=white" title="PostgreSQL" alt="PostgreSQL" height="20"/>
@@ -55,9 +58,6 @@ Throughout the last 12 years, I frequently engaged in analysis to meet business 
 </a>
 <a href="https://redash.io/">
 <img src="https://img.shields.io/badge/Redash-FF6B4A?logo=redash&style=square&logoColor=white&color=FF6B4A" title="Redash" alt="Redash" height="20"/>
-</a>
-<a href="https://jupyter.org/">
-<img src="https://img.shields.io/badge/Jupyter%20-F37626?logo=jupyter&style=square&logoColor=white" title="Jupyter Notebook" alt="Jupyter Notebook" height="20"/>
 </a>
 <a href="https://airflow.apache.org/">
 <img src="https://img.shields.io/badge/Airflow-1DA1F2?logo=apache-airflow&style=square" title="Airflow" alt="Airflow" height="20"/>
