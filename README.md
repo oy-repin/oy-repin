@@ -45,7 +45,7 @@ Throughout the last 12 years, I frequently engaged in analysis to meet business 
 <img src="https://img.shields.io/badge/SciPy-654FF0?logo=scipy&style=square" title="SciPy" alt="SciPy" height="20"/>
 </a>
 <a href="https://plotly.com/python/">
-<img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&style=square" title="Seaborn" alt="Seaborn" height="20"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&style=square" title="Plotly" alt="Plotly" height="20"/>
 </a>
 <a href="https://www.postgresql.org/">
 <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&style=square&logoColor=white" title="PostgreSQL" alt="PostgreSQL" height="20"/>
