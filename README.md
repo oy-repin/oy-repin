@@ -5,11 +5,11 @@
 
   </a>
   <a href="mailto:oy.repin@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="20"/>
   </a>
   </a>
     <a href="https://https://www.linkedin.com/in/olegrepin/">
-  <img src="https://img.shields.io/badge/LinkedIn-3776AB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-3776AB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20"/>
   </a>
 
 <div align="left">
