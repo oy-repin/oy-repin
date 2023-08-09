@@ -21,7 +21,7 @@ Throughout the last 12 years, I frequently engaged in analysis to meet business 
 
 👨‍🎓 To enhance my knowledge and hard skills, I have completed various online courses. Through these courses, I have mastered Python (including libraries like pandas, NumPy, seaborn, scipy), SQL (including PostgreSQL, ClickHouse), Git for team collaboration, data visualization tools (Tableau, Redash), product analytics, probability theory, and statistics (T-tests, ANOVA, correlation and regression, A/B testing, Bootstrap), as well as Airflow.
 
-📚 I actively read books on game analytics, visualization, and statistics.
+👨‍🏫 I actively read books on game analytics, visualization, and statistics.
 
 🎧 Instead of music, I now exclusively listen to podcasts on analytics and personal development within the IT industry.
 
