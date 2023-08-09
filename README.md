@@ -64,10 +64,7 @@ Throughout the last 12 years, I frequently engaged in analysis to meet business 
 </a>
 <a href="https://git-scm.com/">
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&style=square&logoColor=white" title="Git" alt="Git" height="20"/>
-</a>
-<a href="https://www.anaconda.com/">
-<img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&style=square&logoColor=white&color=44A833" title="Anaconda" alt="Anaconda" height="20"/>
-</a>
+
 
   
 </div>
